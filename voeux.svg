@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800mm"
+   height="600mm"
+   viewBox="0 0 800 600"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="voeux.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     height="600mm"
+     inkscape:zoom="0.13951166"
+     inkscape:cx="1351.1416"
+     inkscape:cy="1211.3683"
+     inkscape:window-width="1366"
+     inkscape:window-height="674"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="2044.0193"
+       y="1598.7151"
+       width="858.10291"
+       height="427.26664"
+       id="rect3277" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#d40000;fill-rule:evenodd"
+       id="path97"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="817.60773"
+       sodipodi:cy="700.80664"
+       sodipodi:r1="526.92139"
+       sodipodi:r2="263.46069"
+       sodipodi:arg1="0.74620256"
+       sodipodi:arg2="1.3745211"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 1204.5114,1058.51 868.98716,959.20883 596.9714,1179.3103 587.72976,829.52205 294.34332,638.83479 624.1559,521.95495 714.84886,184.00226 927.92589,461.55481 1277.3637,443.37582 1079.2399,731.79257 Z"
+       transform="scale(0.26458333)"
+       inkscape:transform-center-x="8.4016438"
+       inkscape:transform-center-y="-5.066867" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;fill-rule:evenodd"
+       id="path99"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="1722.8163"
+       sodipodi:cy="744.60706"
+       sodipodi:r1="557.72717"
+       sodipodi:r2="278.86359"
+       sodipodi:arg1="0.92467742"
+       sodipodi:arg2="1.552996"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 2058.6195,1189.9113 -330.8396,-166.4848 -324.7042,178.1549 56.1014,-366.09374 -269.7745,-253.75912 365.5121,-59.77359 157.9744,-334.98671 169.7975,329.15164 367.408,46.72595 -260.5715,263.2005 z"
+       transform="scale(0.26458333)"
+       inkscape:transform-center-x="0.81166328"
+       inkscape:transform-center-y="-13.317072" />
+    <path
+       sodipodi:type="star"
+       style="fill:#0000ff;fill-rule:evenodd"
+       id="path101"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="1989.5231"
+       sodipodi:cy="826.04633"
+       sodipodi:r1="549.97229"
+       sodipodi:r2="274.98615"
+       sodipodi:arg1="0.3220316"
+       sodipodi:arg2="0.95035013"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 2511.2237,1000.1095 -361.8242,49.6708 -164.2059,326.2213 -159.0496,-328.7661 -360.9973,-55.36128 263.5261,-252.85946 -58.9027,-360.4364 321.9177,172.49034 324.5935,-167.40069 -64.57,359.46437 z"
+       transform="scale(0.26458333)"
+       inkscape:transform-center-x="0.3539915"
+       inkscape:transform-center-y="13.55821" />
+    <path
+       sodipodi:type="star"
+       style="fill:#800000;fill-rule:evenodd"
+       id="path103"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="1299.4124"
+       sodipodi:cy="1803.1169"
+       sodipodi:r1="396.69678"
+       sodipodi:r2="198.3484"
+       sodipodi:arg1="0.22266094"
+       sodipodi:arg2="0.85097947"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 1686.316,1890.7178 -256.1431,61.5426 -94.5141,245.8939 -137.683,-224.5888 -263.06554,-13.9029 171.05024,-200.3461 -68.0693,-254.4864 243.3979,100.7681 220.9964,-143.3783 -20.6221,262.6242 z"
+       transform="scale(0.26458333)"
+       inkscape:transform-center-x="-2.9635338"
+       inkscape:transform-center-y="7.162303" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3275"
+       style="font-style:normal;font-weight:normal;font-size:96.00000121px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3277);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="2044.0195"
+         y="1686.2986"
+         id="tspan21175">Bonne Année </tspan><tspan
+         x="2044.0195"
+         y="1806.2986"
+         id="tspan21177">2022 !</tspan></text>
+  </g>
+</svg>
